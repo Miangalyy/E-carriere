@@ -1,0 +1,302 @@
+Ctrl+A. ... ... ... ... ... ... ... ... Sélectionner tous
+Ctrl+C. ... ... ... ... ... ... ... ... Copie
+Ctrl+X. ... ... ... ... ... ... ... ... Coupe
+Ctrl+V. ... ... ... ... ... ... ... ... Coller
+Ctrl+Z. ... ... ... ... ... ... ... ... Annuler
+Ctrl+G. ... ... ... ... ... ... ... ... Audacieux
+Ctrl+U. ... ... ... ... ... ... ... ... Souligner
+Ctrl+I. ... ... ... ... ... ... ... ... Italique
+F1. ... ... ... ... ... ... ... ... ... ... . Aide
+F2. ... ... ... ... ... ... ... ... ... ... Renommer L'objet sélectionné
+F3. ... ... ... ... ... ... ... ... ... ... Trouver tous les fichiers
+F4. ... ... ... ... ... ... ... ... ... ... Ouvre le drop-Down de la liste de fichiers dans les boîtes de dialogue
+F5. ... ... ... ... ... ... ... ... ... ... Rafraîchir la fenêtre actuelle
+F6. ... ... ... ... ... ... ... ... ... ... Changement de focus dans Windows explorer
+F10. ... ... ... ... ... ... ... ... ... . Active les options de la barre de menu
+Alt+Tab. ... ... ... ... ... ... ... . Cycles entre applications ouvertes
+Alt+F4. ... ... ... ... ... ... ... ... Quitter le programme, fermer la fenêtre actuelle
+Alt+F6. ... ... ... ... ... ... ... ... Basculer entre les fenêtres du programme actuel
+Alt+Entrée. ... ... ... ... ... ... . Ouvre la boîte de dialogue des propriétés
+Alt+Space. ... ... ... ... ... ... . Menu du système pour la fenêtre actuelle
+Alt +¢. ... ... ... ... ... ... ... ... . Ouvre des listes de drop-Down dans les boîtes de dialogue
+Retour en arrière. ... ... ... ... ... ... Passer au dossier parent
+Ctrl+Esc. ... ... ... ... ... ... . Ouvre le menu de démarrage
+Ctrl+Alt+Suppr. ... ... ... ... . Ouvre le gestionnaire de tâches, redémarre l'ordinateur
+Ctrl+Tab. ... ... ... ... ... ... . Déplacez-vous à travers les onglets de propriété
+Ctrl+Shift+Drag. ... ... ... Créer un raccourci (aussi un clic droit, glisser)
+Ctrl+Drag. ... ... ... ... ... ... Copier le fichier
+Ces. ... ... ... ... ... ... ... ... ... Annuler la dernière fonction
+Quart de travail. ... ... ... ... ... ... ... ... . Appuyez / maintenez le poste, insérez le CD-Rom pour contourner l'auto-Play
+Shift+Drag. ... ... ... ... ... . Déplacer le fichier
+Maj+F10.. ... ... ... ... ... ... . Ouvre le menu contextuel (même que le clic droit)
+Maj+Suppr. ... ... ... ... ... Effacement complet supprimer (contourner la poubelle de recyclage)
+Lettre de alt+underlined. ... . Ouvre le menu correspondant
+RACCOURCIS CLAVIER PC
+Contrôle du curseur de document
+À la maison. ... ... ... ... ... ... . Au début de la ligne ou à l'extrême gauche du champ ou de l'écran
+Fin. ... ... ... ... ... ... ... . À la fin de la ligne, ou à l'extrême droite du champ ou de l'écran
+Ctrl+Début. ... ... ... . Au sommet
+Ctrl+End. ... ... ... ... . Au fond
+Page up. ... ... ... ... ... . Déplace le document ou la boîte de dialogue sur une page
+Page en bas. ... ... ... . Déplace le document ou la boîte de dialogue en bas d'une page
+Les clés de la flèche. ... ... ... Déplacez-vous dans les documents, les boîtes de dialogue, etc.
+Ctrl+ >. ... ... ... ... ... . Prochain mot
+Ctrl+Shift+ >. ... ... . Sélectionne Le mot
+Contrôle de l'arbre de Windows explorer
+Clavier numérique *. ... Agrandir tout sous la sélection actuelle
+Clavier numérique +. ... Élargit la sélection actuelle
+Clavier numérique -. ... Effondre la sélection actuelle
+.. ... ... ... ... ... ... ... ... . Développez la sélection actuelle ou allez au premier enfant
+‰. ... ... ... ... ... ... ... ... . Effondrement de la sélection actuelle ou allez chez parent
+Personnages spéciaux
+" ouverture de la citation unique. ... Alt 0145
+" fermeture de la citation unique. ... . Alt 0146
+" ouverture de la double citation. ... Alt 0147
+" fermeture de la double citation. ... . Alt 0148
+- un tableau de bord. .............. Tout 0150
+- à dash. .. .. .. .. .. .. . Alt 0151
+... Ellipse. ... ... ... ... ... ... ... . Alt 0133
+• Balle. ... ... ... ... ... ... ... . Alt 0149
+® marque d'inscription. ... ... ... Alt 0174
+© droit d'auteur. ... ... ... ... ... ... Alt 0169
+™ marque de commerce. ... ... ... ... ... . Alt 0153
+° symbole de degré. ... ... ... ... Alt 0176
+Signe de centimes. ... ... ... ... ... ... Alt 0162
+1 ⁄ 4. ... ... ... ... ... ... ... ... ... ... Alt 0188
+1 ⁄ 2. ... ... ... ... ... ... ... ... ... ... Alt 0189
+3 ⁄ 4. ... ... ... ... ... ... ... ... ... ... Alt 0190
+RACCOURCIS CLAVIER PC
+En train de créer des images uniques dans un monde uniforme ! En train de créer des images uniques dans un monde uniforme !
+Ouais. .. .. .. .. .. .. .. Alt 0233
+Ouais. .. .. .. .. .. .. .. Alt 0201
+Ñ. .. .. .. .. .. .. .. Alt 0241
+÷. ... ... ... ... ... ... ... Alt 0247
+Options de menu de fichier dans le programme actuel
+Alt + e modifier les options dans le programme actuel
+F1 aide universelle (pour tous les programmes)
+Ctrl + un select tout le texte
+Ctrl + x coupe de l'article sélectionné
+MAJ + del cut item sélectionné
+Ctrl + c copier l'article sélectionné
+Ctrl + ins copier l'article sélectionné
+Ctrl + v coller
+Shift + ins coller
+À la maison, allez au début de la ligne actuelle
+Ctrl + home aller au début du document
+Fin aller à la fin de la ligne actuelle
+Ctrl + fin aller à la fin du document
+MAJ + mise à jour à la maison de la position actuelle au début de la ligne
+MAJ + fin mise en avant de la position actuelle jusqu'à la fin de la ligne
+Ctrl + f déplace un mot à gauche à la fois
+Ctrl + g déplace un mot à la droite à la fois
+Les clés de raccourci Microsoft ® Windows ®
+Alt + onglet switch entre les applications ouvertes
+Alt +
+Shift + onglet
+Basculer à l'envers entre ouvert
+Applications
+Alt + impression
+Écran
+Créer une photo d'écran pour le programme actuel
+Ctrl + Alt + Del Reboot / Windows ® Gestionnaire de tâches
+Ctrl + ESC apporte le menu de départ
+Alt + ESC Switch entre les applications dans la barre des tâches
+F2 renommer l'icône sélectionnée
+F3 commence à trouver depuis le bureau
+F4 ouvre la sélection de drive lors de la navigation
+Contenu de rafraîchissement f5
+Alt + F4 fermeture du programme ouvert
+Ctrl + F4 fermeture de la fenêtre dans le programme
+Ctrl + plus
+Clé
+Ajuster automatiquement les largeurs de toutes les colonnes
+Dans Windows explorer
+Alt + entrez la fenêtre des propriétés ouvertes de l'icône sélectionnée
+Ou programme
+Shift + F10 simuler un clic droit sur un article sélectionné
+MAJ + del supprimer les programmes / fichiers en permanence
+Changement de garde
+Pendant le démarrage
+Les fichiers du système de sécurité de démarrage ou de contournement
+Changement de garde
+Pendant le démarrage
+Lors de la mise en place d'un CD Audio, vous pourrez prévenir
+Lecteur CD de jouer
+Raccourcis winkey
+Winkey + d apporte le bureau au sommet des autres fenêtres
+Winkey + m minimise toutes les fenêtres
+Winkey +
+Shift + m
+Annuler le minimiser fait par winkey + m
+Et Winkey + d
+Winkey + e ouvert Microsoft Explorer
+Winkey + TAB CYCLE à travers des programmes ouverts sur la barre des tâches
+Winkey + f afficher la fonctionnalité de recherche / recherche windows ®
+Winkey +
+Ctrl + f
+Afficher la fenêtre de recherche d'ordinateurs
+Winkey + F1 afficher l'aide Microsoft ® Windows ®
+Winkey + R ouvre la fenêtre de course
+Winkey +
+Pause / pause
+Ouvrez la fenêtre des propriétés du système
+Winkey + u open utilitaire manager
+Winkey + l verrouille l'ordinateur (Windows Xp ® & plus tard)
+Outlook ® raccourcis clavier
+Alt + s envoyez l'e-mail
+Ctrl + c copie texte sélectionné
+Ctrl + x coupe le texte sélectionné
+Ctrl + p boîte de dialogue d'impression ouverte
+Ctrl + k nom complet / e-mail tapé dans la barre d'adresse
+Ctrl + b audacieuse sélection mise en évidence
+Ctrl + I Italicize sélection mise en avant
+Ctrl + u souligne la sélection mise en avant
+Ctrl + R réponse à un e-mail
+Ctrl + F en avant un e-mail
+Ctrl + n crée un nouvel e-mail
+Ctrl + shift + a créer un nouveau rendez-vous à votre calendrier
+Ctrl + shift + o ouvre la boîte d'envoi
+Ctrl + shift + J'ouvre la boîte de réception
+Ctrl + shift + k ajouter une nouvelle tâche
+Ctrl + shift + c crée un nouveau contact
+Ctrl + maj+ j crée une nouvelle entrée de journal
+Mot ® raccourcis clés
+Ctrl + un sélectionner tous les contenus de la page
+Ctrl + b audacieuse sélection mise en évidence
+Ctrl + c copie texte sélectionné
+Ctrl + x coupe le texte sélectionné
+Ctrl + n ouvert nouveau / document blanc
+Ctrl + o options ouvertes
+Ctrl + p ouvre la fenêtre d'impression
+Ctrl + F Open trouver boîte
+Ctrl + I Italicize sélection mise en avant
+Ctrl + k insérer le lien
+Ctrl + u souligne la sélection mise en avant
+Ctrl + v coller
+Ctrl + y refaire la dernière action exécutée
+Ctrl + Z annuler la dernière action
+Ctrl + g trouve et remplace les options
+Ctrl + h trouver et remplacer les options
+Ctrl + j justifie l'alignement du paragraphe
+Ctrl + l aligner le texte ou la ligne sélectionné sur la gauche
+Ctrl + q aligner le paragraphe sélectionné sur la gauche
+Ctrl + e alignement sélectionné
+
+
+
+
+
+
+La conception et la réalisation d'une application de gestion des carrières sont des projets complexes qui nécessitent une planification minutieuse et une compréhension approfondie des besoins des utilisateurs. Voici un guide général pour vous aider à démarrer :
+
+1. Comprendre les besoins :
+Analyse des exigences : Identifiez les fonctionnalités clés de l'application, telles que la gestion des CV, la recherche d'emploi, la gestion des offres d'emploi, le suivi des candidatures, les entretiens, la gestion des compétences, etc.
+Public cible : Déterminez le groupe d'utilisateurs visé, qu'il s'agisse de chercheurs d'emploi, de recruteurs ou d'administrateurs de carrière.
+2. Conception de l'application :
+Wireframing : Créez des schémas de conception basiques pour chaque écran de l'application.
+Interface Utilisateur (UI) / Expérience Utilisateur (UX) : Concevez une interface intuitive et conviviale. Assurez-vous que l'expérience utilisateur est fluide et agréable.
+3. Développement de l'application :
+Choix de la technologie : Choisissez les technologies de développement appropriées (par exemple, React.js ou Angular pour le frontend, Node.js ou Django pour le backend, et MongoDB ou MySQL pour la base de données).
+Développement : Commencez le développement en suivant les meilleures pratiques de codage et en assurant la modularité du code.
+Tests : Effectuez des tests rigoureux, y compris des tests unitaires et des tests d'interface utilisateur pour garantir la qualité du code.
+Sécurité : Mettez en place des mesures de sécurité pour protéger les données sensibles des utilisateurs.
+4. Intégration de Fonctionnalités :
+Gestion des CV : Permettez aux utilisateurs de télécharger et de gérer leurs CV de manière efficace.
+Recherche d'emploi : Mettez en place un moteur de recherche puissant pour que les utilisateurs puissent trouver des offres d'emploi pertinentes.
+Suivi des Candidatures : Offrez un moyen aux utilisateurs de suivre l'état de leurs candidatures.
+Gestion des Compétences : Créez des profils d'utilisateur détaillés incluant les compétences et les expériences.
+5. Fonctionnalités Avancées :
+Intelligence Artificielle (IA) : Intégrez des fonctionnalités d'IA telles que l'analyse des CV, la recommandation d'emplois, etc.
+Analytique : Intégrez des outils d'analyse pour permettre aux entreprises de suivre et d'analyser les tendances en matière d'embauche.
+Notifications : Mise en place de notifications par courriel ou par SMS pour les mises à jour importantes.
+6. Tests et Déploiement :
+Tests Bêta : Effectuez des tests bêta avec un groupe restreint d'utilisateurs pour obtenir des retours d'expérience.
+Rétroaction des Utilisateurs : Prenez en compte les commentaires des utilisateurs pour apporter les modifications nécessaires.
+Déploiement : Déployez l'application sur un serveur sécurisé et fiable.
+7. Maintenance et Mises à Jour :
+Support Technique : Offrez un support technique pour résoudre les problèmes rencontrés par les utilisateurs.
+Mises à Jour : Publiez régulièrement des mises à jour pour améliorer les fonctionnalités existantes et en ajouter de nouvelles en fonction des besoins du marché.
+8. Sécurité et Confidentialité :
+Conformité aux Réglementations : Assurez-vous que l'application est conforme aux lois et réglementations locales sur la protection des données personnelles.
+Chiffrement : Chiffrez les données sensibles pour garantir la confidentialité des utilisateurs.
+9. Promotion de l'Application :
+Stratégie de Marketing : Mettez en place une stratégie marketing pour promouvoir l'application auprès des chercheurs d'emploi et des recruteurs.
+Réseaux Sociaux : Utilisez les réseaux sociaux et d'autres plateformes en ligne pour atteindre un public plus large.
+10. Collecte de Commentaires et Améliorations Continues :
+Commentaires Utilisateurs : Encouragez les utilisateurs à donner leur avis et à signaler les problèmes.
+Améliorations Continues : Utilisez les commentaires des utilisateurs pour apporter des améliorations continues à l'application.
+N'oubliez pas que le développement d'une application de gestion des carrières est un processus itératif. Il est essentiel de rester flexible et réactif aux besoins changeants des utilisateurs et du marché.
+
+
+
+
+User
+Modele MCD de gestion des carrieres d'une administration publique
+ChatGPT
+!
+
+3 / 3
+
+Pour concevoir un Modèle Conceptuel de Données (MCD) pour la gestion des carrières d'une administration publique, il est nécessaire de comprendre les principales entités impliquées dans ce processus. Voici un exemple de MCD pour la gestion des carrières d'une administration publique :
+
+Entités Principales :
+Employé :
+
+ID Employé (Clé primaire)
+Nom
+Prénom
+Date de Naissance
+Genre
+Adresse
+Numéro de Téléphone
+Adresse Email
+Grade/Poste Actuel
+Date d'Embauche
+Date de Fin de Contrat (le cas échéant)
+Poste :
+
+ID Poste (Clé primaire)
+Titre du Poste
+Description du Poste
+Salaire
+Département/Service
+Département/Service :
+
+ID Département (Clé primaire)
+Nom du Département
+Description du Département
+Formation :
+
+ID Formation (Clé primaire)
+Nom de la Formation
+Description de la Formation
+Date de Début
+Date de Fin
+Institution
+Compétences :
+
+ID Compétence (Clé primaire)
+Nom de la Compétence
+Niveau de Maîtrise
+Certifications (le cas échéant)
+Évaluation de la Performance :
+
+ID Évaluation (Clé primaire)
+Note/Évaluation
+Commentaires
+Date de l'Évaluation
+Évaluateur (référence à l'ID Employé)
+Promotion :
+
+ID Promotion (Clé primaire)
+Date de Promotion
+Ancien Poste (référence à l'ID Poste)
+Nouveau Poste (référence à l'ID Poste)
+Relations Entre les Entités :
+Un employé est associé à un seul poste, mais un poste peut être associé à plusieurs employés (relation N:1 entre Employé et Poste).
+Un département peut avoir plusieurs employés, mais un employé appartient à un seul département (relation N:1 entre Département/Service et Employé).
+Un employé peut avoir plusieurs formations, et une formation peut être suivie par plusieurs employés (relation N:N entre Employé et Formation, nécessitant une table de liaison).
+Un employé peut avoir plusieurs compétences, et une compétence peut être associée à plusieurs employés (relation N:N entre Employé et Compétences, nécessitant une table de liaison).
+Chaque évaluation de la performance est associée à un employé en tant qu'évalué et à un employé en tant qu'évaluateur (relation N:1 entre Employé et Évaluation de la Performance).
+Un employé peut être promu, ce qui implique un changement de poste (relation N:1 entre Employé et Promotion).
+Ce modèle conceptuel de données offre une base solide pour concevoir la base de données relationnelle pour la gestion des carrières au sein de l'administration publique. Il peut être adapté en fonction des besoins spécifiques de l'organisation. Avant de passer à la conception physique de la base de données, il est important de consulter les parties prenantes pour valider le modèle conceptuel et s'
